@@ -1,7 +1,10 @@
 /**
  * Created by h205p2 on 9/29/17.
  */
-
+/*Roni Weissman
+JavaScript Problems 1-10
+10/12/17
+ */
 function sleep_in(weekday,vacation) {
     if(vacation == true || weekday == false){
         return true;
